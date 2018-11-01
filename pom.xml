@@ -67,7 +67,7 @@
 		</repository>
 
         <repository>
-            <id>payara-milestones</id>
+            <id>payara-milestones-eclipse</id>
             <name>Payara Milestones Eclipse</name>
             <url>https://raw.github.com/payara/Payara_PatchedProjects/eclipse</url>
             <releases>
