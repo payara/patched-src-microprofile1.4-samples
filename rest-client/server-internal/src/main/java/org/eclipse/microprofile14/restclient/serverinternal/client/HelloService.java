@@ -17,7 +17,6 @@ import org.eclipse.microprofile.rest.client.inject.RegisterRestClient;
  * @author Ondrej Mihalyi
  */
 @Path("/api/hello")
-@RequestScoped
 @RegisterRestClient  // Required to enable injection of this interface
 public interface HelloService {
 
